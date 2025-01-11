@@ -1,0 +1,14 @@
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\bin\Debug\net9.0\ThreadingAndLocks.exe
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\bin\Debug\net9.0\ThreadingAndLocks.deps.json
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\bin\Debug\net9.0\ThreadingAndLocks.runtimeconfig.json
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\bin\Debug\net9.0\ThreadingAndLocks.dll
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\bin\Debug\net9.0\ThreadingAndLocks.pdb
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\obj\Debug\net9.0\ThreadingAndLocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\obj\Debug\net9.0\ThreadingAndLocks.AssemblyInfoInputs.cache
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\obj\Debug\net9.0\ThreadingAndLocks.AssemblyInfo.cs
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\obj\Debug\net9.0\ThreadingAndLocks.csproj.CoreCompileInputs.cache
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\obj\Debug\net9.0\ThreadingAndLocks.dll
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\obj\Debug\net9.0\refint\ThreadingAndLocks.dll
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\obj\Debug\net9.0\ThreadingAndLocks.pdb
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\obj\Debug\net9.0\ThreadingAndLocks.genruntimeconfig.cache
+C:\Users\reinoutwijnholds\source\repos\ThreadingAndLocks\ThreadingAndLocks\obj\Debug\net9.0\ref\ThreadingAndLocks.dll
